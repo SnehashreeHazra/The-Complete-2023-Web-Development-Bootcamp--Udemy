@@ -83,31 +83,31 @@ Throughout this comprehensive course, we cover a massive amount of tools and tec
 
 - Deployment with GitHub Pages, Heroku and MongoDB Atlas
 
-Web3 Development on the Internet Computer
+- Web3 Development on the Internet Computer
 
-Blockchain technology
+- Blockchain technology
 
-Token contract development
+- Token contract development
 
-NFT minting, buying and selling logic
+- NFT minting, buying and selling logic
 
-By the end of this course, you will be fluently programming and be ready to make any website you can dream of.
+- By the end of this course, you will be fluently programming and be ready to make any website you can dream of.
 
-You'll also build a portfolio of over 32+ websites that you can show off to any potential employer.
+- You'll also build a portfolio of over 32+ websites that you can show off to any potential employer.
 
-Sign up today, and look forward to:
+- Sign up today, and look forward to:
 
-Animated Video Lectures
+- Animated Video Lectures
 
-Code Challenges and Coding Exercises
+- Code Challenges and Coding Exercises
 
-Beautiful Real-World Projects
+- Beautiful Real-World Projects
 
-Quizzes & Practice Tests
+- Quizzes & Practice Tests
 
-Downloadable Programming Resources and Cheatsheets
+- Downloadable Programming Resources and Cheatsheets
 
-Our best selling 12 Rules to Learn to Code eBook
+- Our best selling 12 Rules to Learn to Code eBook
 
-$12,000+ worth of web development bootcamp course materials and course curriculum
+- $12,000+ worth of web development bootcamp course materials and course curriculum
 
